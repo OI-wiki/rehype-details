@@ -1,3 +1,10 @@
+# Build result
+*.js
+!/lib/**/*.js
+*.d.ts
+!/lib/**/*.d.ts
+*.map
+
 # Logs
 logs
 *.log
